@@ -1,0 +1,30 @@
+{
+  "name": "budget-trackers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelGarciaCastro/Budget-Trackers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiguelGarciaCastro/Budget-Trackers/issues"
+  },
+  "homepage": "https://github.com/MiguelGarciaCastro/Budget-Trackers#readme",
+  "dependencies": {
+    "chart.js": "^3.7.0",
+    "compression": "^1.7.4",
+    "express": "^4.17.2",
+    "mongodb": "^4.3.0",
+    "mongoose": "^6.1.6",
+    "morgan": "^1.10.0",
+    "node": "^17.3.0",
+    "progressive-web-app": "^1.1.0"
+  }
+}
