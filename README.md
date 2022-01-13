@@ -33,3 +33,4 @@ The deployed application can be used at this -->
 **ScreenShots**
 <img width="1792" alt="Screen Shot 2022-01-13 at 10 55 09 AM" src="https://user-images.githubusercontent.com/87445858/149364017-23f3c49f-7fb1-40a1-a137-844e1c031504.png">
 
+<img width="1792" alt="Screen Shot 2022-01-13 at 10 56 00 AM" src="https://user-images.githubusercontent.com/87445858/149364212-3f6ef3ad-17d2-4533-b772-68da376c022d.png">
