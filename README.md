@@ -14,7 +14,7 @@ When brought back online:
 
 Offline entries should be added to tracker.
 
-##INSTALL
+**INSTALL**
 
 npm i install
 
@@ -22,7 +22,7 @@ npm i express
 
 npm i mongoose
 
-#USAGE
+**USAGE**
 
 To use locally, run npm start from your terminal and use localhost:3000 in your browser.
 
