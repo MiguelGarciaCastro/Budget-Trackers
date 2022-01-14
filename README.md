@@ -28,7 +28,7 @@ To use locally, run npm start from your terminal and use localhost:3000 in your 
 
 To deploy an application with a MongoDB database to Heroku, you'll need to set up a MongoDB Atlas account and connect a database from there to your application.
 
-The deployed application can be used at this -->
+The deployed application can be used at this --> https://onlinebudgettrackeroffline.herokuapp.com/
 
 **ScreenShots**
 <img width="1792" alt="Screen Shot 2022-01-13 at 10 55 09 AM" src="https://user-images.githubusercontent.com/87445858/149364017-23f3c49f-7fb1-40a1-a137-844e1c031504.png">
